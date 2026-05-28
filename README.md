@@ -1,3 +1,7 @@
+### This is under construction and not tested ###
+### You are welcome to work with me on project, to test and sent issues ###
+
+
 # Steinel BLE Mesh → Home Assistant Bridge
 
 ESP32-basierte Bridge zwischen Steinel Bluetooth Mesh Leuchten und Home Assistant via MQTT.
